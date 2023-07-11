@@ -7,4 +7,3 @@ xyz
 
 ![image](https://github.com/Prince26210/Employee_Attendence_Dashboard/assets/136337627/192df24b-c275-4ada-a391-9b146294fd68)
 
-https://github.com/Subhralina/8-Week-SQL-Challenge/blob/main/%231%20Danny's%20Diner/README.md
