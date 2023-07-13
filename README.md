@@ -3,8 +3,8 @@ This Employee Attendance Dashboard is a data visualization tool that provides in
 
 ## Technologies Used
 #Dataset - Excel, <br />
- &nbsp;#Programming language - Python,
- #Data Manipulation tool - Jupiter Notebook,
+#Programming language - Python, <br />
+ #Data Manipulation tool - Jupiter Notebook, <br />
  #Data Visulization tool - Power BI,
 
 ## Screenshots
