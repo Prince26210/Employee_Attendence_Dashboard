@@ -2,8 +2,8 @@
 This Employee Attendance Dashboard is a data visualization tool that provides insights into employee attendance patterns. It helps in tracking and analyzing employee attendance records to identify trends, patterns, and potential issues related to attendance.
 
 ## Technologies Used
-### Data - Excel,
-Programming language - Python,
+Data - Excel,
+#Programming language - Python,
 Data Manipulation tool - Jupiter Notebook,
 Data Visulization tool - Power BI,
 
